@@ -32,10 +32,10 @@ npm install react-router-dom
 
 Create separate components for the home page, about me, form, and trivia game. You can structure your components as follows:
 
-- `HomePage.js`
-- `AboutMe.js`
-- `Form.js`
-- `TriviaGame.js`
+- `HomePage.jsx`
+- `AboutMe.jsx`
+- `Form.jsx`
+- `TriviaGame.jsx`
 
 ### 4. Implementing Routing
 
